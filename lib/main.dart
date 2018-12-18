@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_app_helper/settinView.dart';
 
-void main() => runApp(new SettingViewClass());
+void main() => runApp(new HelperScreen());
 
 
 class SettingViewClass extends StatelessWidget {
